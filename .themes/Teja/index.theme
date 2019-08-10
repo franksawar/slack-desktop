@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Teja
+Comment=A Material Design theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+Name=Teja
+GtkTheme=Teja
+MetacityTheme=Teja
+ButtonLayout=:minimize,maximize,close
